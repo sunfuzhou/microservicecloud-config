@@ -3,8 +3,9 @@ spring:
   profiles: dev
   application:
     sex: man
-    name: microservicecloud-config-atguigu-dev
     age: 48
+    name: microservicecloud-config-atguigu-dev
+    
 ---
 
 spring:
